@@ -141,3 +141,10 @@ ul li span{
 ul li span:hover{
   background-color: silver;
 }
+
+
+@media (max-width: 435px) {
+  .todo-app{
+    width: 90%;
+  }
+}
